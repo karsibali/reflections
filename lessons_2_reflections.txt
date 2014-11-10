@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	git init creates an empty repository ready for new files to be added. We need to initialize a repository in order to track changes on our files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area is a place where you put the files that you want to keep track of before commiting them to the repository. It is like a buffer area between the working directory and the repository.
