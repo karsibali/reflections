@@ -1,7 +1,6 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    Fill in your answer here
     The diff tool pinpoints the differences in the files by pinpointing the lines that are different.
 
 How could having easy access to the entire history of a file make you a better
