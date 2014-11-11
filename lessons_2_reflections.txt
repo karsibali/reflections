@@ -15,3 +15,6 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	The result of merging two branches together combines all the changes made in both branches into a new commit and moves the head of current branch to this commit.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	Merge automatically detect the conflicts and shows us the differences between branches. We can resolve the conflicts using the signs that git put in the conflicting file or files. After resolving the conflict issue, we can commit again to write the changes.
