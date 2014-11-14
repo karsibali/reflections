@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  There may be several different occasions where you will need to keep a remote reposityory. 
+  This need can occur when you work on different computers and you want to automatically 
+  synchronize your project on all computers you work. Another ocassion can be when you 
+  work on a project as a team. This way multiple persons can work on the same project 
+  without anyl issues.
